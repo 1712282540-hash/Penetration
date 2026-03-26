@@ -1,4 +1,4 @@
-CVE Submission Report: Unauthorized Administrative Access in Xerox® C325 Color MFP<br>
+<b>CVE Submission Report: Unauthorized Administrative Access in Xerox® C325 Color MFP</b><br>
 1. Report Title<br>
 Unauthorized Administrative Access Vulnerability in Xerox® C325 Color MFP<br>
 2. Vendor<br>
