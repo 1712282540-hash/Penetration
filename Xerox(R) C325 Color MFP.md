@@ -28,7 +28,7 @@ proof of vulnerability：<br>
 URL:<br>
 http://178235093218.unknown.vectranet.pl:65000/#/Settings/Security/UsernamePasswordAccounts<br>
 https://132.247.189.74/#/Settings/Security/UsernamePasswordAccounts<br>
-http://69.251.119.14/#/Settings/Security/UsernamePasswordAccounts<br>
+http://69.251.119.14/#/Settings/Security/UsernamePasswordAccounts
 ![Xerox C325 Evidence 1](https://github.com/user-attachments/assets/8ba6aecc-70d4-4708-80db-6a8607ac333c)
 ![Xerox C325 Evidence 2](https://github.com/user-attachments/assets/0a482652-8036-43a1-a698-06abb571db11)
 ![Xerox C325 Evidence 3](https://github.com/user-attachments/assets/22d4683d-23ce-4a6d-98de-0b45319dbc7a)
@@ -58,8 +58,7 @@ http://69.251.119.14/#/Settings/Security/UsernamePasswordAccounts<br>
 ![Xerox C325 Evidence 27](https://github.com/user-attachments/assets/dd883d11-1e0b-410e-af49-047cc860f33d)
 ![Xerox C325 Evidence 28](https://github.com/user-attachments/assets/e0e46abe-bd45-4a3e-a0a3-df8caa670ef4)
 ![Xerox C325 Evidence 29](https://github.com/user-attachments/assets/f944c3bf-ddd2-47c6-9220-0a1725e724c3)
-<br>
-Sample Vulnerable URLs (Proof of Exposure):<br>
+<br>Sample Vulnerable URLs (Proof of Exposure):<br>
 <br>
 http://69.251.119.14<br>
 http://91.217.53.123:8080<br>
